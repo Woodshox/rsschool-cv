@@ -93,4 +93,23 @@ func digitalRoot(of number: Int) -> Int {
     return (1 + (number - 1) % 9)
 }
 ```
+___
+
+## Language Skills:
+
+
+* Russian (Native speaker)
+* German (B2)
+* English (A2)
+
+
+<footer>
+  <p>Posted by: Aleksandr Pavlov</p>
+  <p>Email: <a href="mailto:woodhox@gmail.com">
+  woodhox@gmail.com</a>.</p>
+</footer>
+
+
+
+
 
