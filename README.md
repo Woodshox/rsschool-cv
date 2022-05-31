@@ -1,1 +1,1 @@
-# rsschool-cv
+https://woodhsox.github.io/rsschool-cv/cv
