@@ -28,8 +28,7 @@ ____________________________________________________
 ## Education
 
 
-2020-2022 (expected)
-:   **Software developer**; IBB Institut für Berufliche Bildung AG (Frankfurt am Main)
+2020-2022 (expected): **Software developer**; IBB Institut für Berufliche Bildung AG (Frankfurt am Main)
 
     Thesis title: Develop a widget for an existing magnetic field app to display the current value of the magnetic field. 
     
