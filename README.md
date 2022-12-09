@@ -1,1 +1,1 @@
-https://Woodshox.github.io/rsschool-cv/cv
+https://Woodshox.github.io/rsschool-cv/
