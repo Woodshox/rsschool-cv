@@ -1,1 +1,1 @@
-https://Woodshox.github.io/rsschool-cv/cv.md
+https://Woodshox.github.io/rsschool-cv/blob/main/cv.md
